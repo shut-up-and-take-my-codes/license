@@ -1,0 +1,27 @@
+	SHUT UP AND TAKE MY CODES LICENSE
+                              Version 0.1.0
+
+ If you use all or part of the code contained in your coding answers to which this license applies, you may freely copy, distribute and modify the code provided that you understand, agree, and comply with all of the following provisions:
+
+0. Appreciate the respondent.
+The person who receives the answer must mark the respondent's appreciation in all stores that use the code they received.
+
+Possible ways to express your appreciation are as follows:
+
+	'README', 'README.md', 'README.txt' or any other personally identifiable file shall contain the name, nickname or email of the respondent.
+	
+If it's impossible,
+	
+	Write the name, nickname, or email of the respondent in the change commit message.
+	Example: '(thx: @someone)'
+
+If it's impossible,
+
+	Write the name, nickname, or email of the respondent by annotating the function, method declaration, or line where the code received is used.
+	Example: '//thx: @someone'
+
+1. In no event shall the respondent complain about the code he or she received.
+
+2. When expecting a complaint, express it as an opinion rather than a complaint.
+
+3. Respondents shall not be held responsible for any code received.
